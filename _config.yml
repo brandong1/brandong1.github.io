@@ -1,10 +1,10 @@
 # Site settings
-title: 
+title: ./brandonCodes
 header-img: img/home-bg.png
 email: brandon@brandonleeproductions.com
 copyright_name: brandong1
 description: > # this means to ignore newlines until "baseurl:"
-  
+  I am one with the Code and the Code is with me.
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  brandong1
