@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Learning How To Learn Coding"
-date:       2018-06-23 18:07:58 +0000
+date:       2018-06-23 14:07:59 -0400
 permalink:  learning_how_to_learn_coding
 ---
 
@@ -35,7 +35,7 @@ class Artist
 A simple comment that tells me exactly what that method does is effective enough for me to understand what needs to be done to get the desired results.
 
 ```
-song.artist = self # Telling the song object that it belongs to the Artist
+song.artist = self # Telling the song object that it belongs to that instance of Artist
 ```
 
 This allows me to break down each line of code by adding my own comments that explains, in my own words, what that line of code does.
