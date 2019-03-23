@@ -6,7 +6,8 @@ permalink:  sinatra_project_whiskey_bourbon_and_rye
 ---
 
 
-​The biggest challenge with starting a new project is deciding exactly where to begin. I spent the first few days reading every piece of Sinatra literature I could. I needed to reinforce my understanding of several concepts that I struggled with while making the Twitter clone - Fwitter ( (https://github.com/brandong1/sinatra-fwitter-group-project-v-000) 
+​The biggest challenge with starting a new project is deciding exactly where to begin. I spent the first few days reading every piece of Sinatra literature I could. I needed to reinforce my understanding of several concepts that I struggled with while making the Twitter clone - Fwitter ( 
+[https://github.com/brandong1/sinatra-fwitter-group-project-v-000])
 
 My next task was deciding exactly what I wanted to do for my Sinatra project. Fortunately, it didn’t take long for me to come up with the idea of a liquor database. This was inspired by the book, Whiskey Bourbon & Rye by Clay Risen, which I’ve been using to track which spirits I’ve tried and whether I like them or not.
 
